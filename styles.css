@@ -10,7 +10,7 @@ body{
 
 #cabecalho{
     height: 90px;
-    background-color: rgb(115, 237, 149);
+    background-color: rgb(104, 228, 121);
     width: 75%;
     margin: 0 auto;
     text-align: center;
@@ -19,7 +19,7 @@ body{
 #menu{
     height: 500px;
     width: 300px;
-    background-color: rgb(115, 237, 149);
+    background-color: rgb(104, 228, 121);
     float: left;
     margin-left: 37px;
     margin-top: 10px;
@@ -28,7 +28,7 @@ body{
 #conteudo{
     height: 500px;
     width: 800px;
-    background-color: rgb(115, 237, 149);
+    background-color: rgb(104, 228, 121);
     float: left;
     margin-top: 10px;
     margin-left: 5px;
@@ -38,21 +38,23 @@ body{
 #lado{
     height: 500px;
     width: 290px;
-    background-color: rgb(115, 237, 149);
+    background-color: rgb(104, 228, 121);
     float: left;
     margin-left: 5px;
     margin-top: 10px;
     margin-block-end: 5px;
 }
 
-#rodape{
-    height: 2300px;
+#meio2{
+    height: 3050px;
     /*width: 300px;*/
-    background-color: rgb(115, 237, 149);
+    background-color:rgb(104, 228, 121);
     clear: both;
     width: 95%;
     margin: 0 auto;
     text-align: center;
+    padding: 20px;
+    
 }
 
 #button {
@@ -65,3 +67,23 @@ body{
     display: inline-block;
     font-size: 16px;
   }
+
+h5{
+    text-align: left;
+}
+
+h6{
+    text-align: center;
+}
+
+#rodape{
+    height: 80px;
+    /*width: 300px;*/
+    background-color:rgb(54, 186, 91);
+    clear: both;
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 5px;
+    text-align: center;
+    
+}
